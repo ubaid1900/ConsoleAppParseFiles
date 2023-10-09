@@ -1,0 +1,42 @@
+###FORM(1)_START###
+D221023545 01/27/2021 04:
+
+12 PM Page:
+
+ 1 of 6 Fee:
+
+ $39.00 Submitter:
+
+ Tri-County Electric Cooperative, Inc Electronically Recorded by Tarrant County Clerk in Official Public Records Nahalson MARY LOUISE NICHOLSON COUNTY CLERK TRI-COUNTY ELECTRIC COOPERATIVE, INC. ELECTRIC LINE EASEMENT AND RIGHT-OF-WAY STATE OF TEXAS COUNTY OF TARRANT DATE- 1/20/2021 Work Order No. 953421 GRANTOR:
+
+ SHERMAN SPECKLES LLC 5702585 GRANTOR'S MAILING ADDRESS- 4011 COMMERCE STREET (including county) DAUTS TX 75228 DAUTS COUNTY GRANTEE TRI-COUNTY ELECTRIC COOPERATIVE, INC. GRANTEE'S MAILING ADDRESS- 600 N. W. Parkway Azle, Texas 76020 CONSIDERATION- The provision of electrical service and/or other benefits inuring to GRANTOR and/or Ten and No/100's dollars ($10.00) and other good and valuable consideration, the receipt and sufficiency of some consideration deemed valuable to GRANTOR being hereby expressly acknowledged and accepted by GRANTOR. EASEMENT PROPERTY (check either Defined Easement or Blanket Easement):
+
+ Defined Easement. The EASEMENT PROPERTY is a tract of land consisting of 0.044 acres, more or less, more particularly described in the attached 
+EXHIBIT A, field note description and plat, incorporated herein for all purposes. Blanket Easement. The EASEMENT PROPERTY is a tract of land described as follows (check one):
+
+ Platted Property. Lot(s) , in Block , Addition, an addition in the city of , (cross out "City of" if property is not within city limits), County, Texas, according to the map or plat thereof recorded in the Plat Records of such county. Unplatted Property. acres of land, more or less, out of the Survey, Abstract No. in County, Texas, as more fully described in an instrument recorded in Volume Page of the Records of County, Texas. For blanket easements, upon location by GRANTEE of its transmission/distribution lines, poles and/or other facilities on said property, the EASEMENT PROPERTY shall be limited to that portion of the property within feet in all directions of GRANTEE'S lines, poles, guys, anchors, or other facilities on the tract of land described above. 
+###FORM(1)_END###
+###BEARING(5)_START###
+D221023545 Page 5 of 6 TRI-COUNTY ELECTRIC EASEMENT SHEET 1 OF 2 JOSEPH A. DUNHAM SURVEY, ABSTRACT NO. 424 CITY OF KELLER, TARRANT COUNTY, TEXAS BEING that certain 1,900 square feet (0.044 acre) tract of land situated in the Joseph A. Dunham Survey, Abstract No. 424, City of Keller, Tarrant County, Texas, and being a portion of that certain tract of land conveyed to Sherman Speckles, LLC, by Special Warranty Deed recorded in Instrument No. D220208185, Official Public Records Tarront County, Texas, some being a portion of Lot 1, Block A, Spec's Keller Addition, an addition to the City of Keller, Torrant County, Texos, according to the plat thereof recorded in Instrument Number D220228436, said Official Public Records, and being more particularly described as follows:
+
+ 
+COMMENCING at a 1/2 inch iron rod with red "Peiser & Mankin SURV" cap (hereinafter referred to as 1/2 inch iron rod set) for the northeast corner of said Lot 1, same being the south line of Block B, Newton Ranch, Phase 1, an addition to the City of Keller, Tarrant County, Texas, according to the plat thereof recorded in Instrument Number D207097570, said Official Public Records, same being in the northwest corner of the remginder of that certain tract of land conveyed to Greenway-Keller, L.P., by deed recorded in Instrument Number D207093496, said Official Public Records;
+ 
+THENCE along the common line of said Lot 1 and said remainder of Greenway tract as follows:
+
+ South 02 deg. 38 min. 46 sec. East, a distance of 106.99 feet to a point for the northeast corner of the herein described tract, same being the POB;
+ South 02 deg. 38 min. 46 sec. East, a distance of 172.52 feet to a point for the southeast corner of the herein described tract;
+ 
+THENCE through the interior of said Lot 1 as follows:
+
+ North 47 deg. 38 min. 46 sec. West, a distance of 14.14 feet to a point for the most southerly southwest corner of the herein described tract;
+ North 02 deg. 38 min. 46 sec. West, a distance of 150.02 feet to a point for internal corner;
+ South 87 deg. 21 min. 14 sec. West, a distance of 15.00 feet to a point for the most westerly southwest corner of the herein described tract;
+ North 02 deg. 38 min. 46 sec. West, Q distance of 15.00 feet to a point for the northwest corner of the herein described tract;
+ North 87 deg. 21 min. 14 sec. East, a distance of 15.00 feet to a point for corner:
+
+ South 02 deg. 38 min. 46 sec. East, a distance of 2.50 feet to a point for internal corner;
+ North 87 deg. 21 min. 14 sec. East, a distance of 10.00 feet to the POB and containing 1,900 square feet or 0.044 acre of computed land, more or less. LINE TABLE LINE BEARING DISTANCE L1 S 02*38'46" E 172.52 L2 N 47'38'46" W 14.14 L3 N 02'38'46" W 150.02 L4 S 87°21'14" W 15.00 L5 N 02'38'46" W 15.00' L6 N 87°21'14" E 15.00 The undersigned, Registered Professional L7 S 02'38'46" E 2.50 Land Surveyor, hereby certifies that this L8 N 87°21'14" E 10.00' legal description accurately sets out the L9 S 02'38'46" E 20.14 metes and bounds OF Basement tract described. a TIMOTHY R. MANKII 6122 JOB NO.:
+
+ 20-0110 PEISER & MANKIN SURVE DATE- 12/15/2020 TIMOTHY R. MANKIN SURVEYING, LLC Registered Professional Land Surveyor No. 6122 REVISION www.peisersurveying.com Texas FIRM NO. 100999-00 Society of MS NOT TO SCALE Professional 1604 HART STREET Surveyors A LLC SOUTHLAKE, TEXAS 76092 DRAWN- J.B.W. 817-481-1806 COMMERCIAL RESIDENTIAL BOUNDARIES TOPOGRAPHY Member Since 1977 MORTGAGE 
+###BEARING(5)_END###

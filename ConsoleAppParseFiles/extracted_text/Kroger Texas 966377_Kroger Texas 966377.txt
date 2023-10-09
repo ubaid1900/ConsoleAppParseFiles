@@ -1,0 +1,45 @@
+###FORM(1)_START###
+D222166682 06/30/2022 03:
+
+35 PM Page:
+
+ 1 of 5 Fee:
+
+ $35.00 Submitter:
+
+ Tri-County Electric Cooperative, Inc Electronically Recorded by Tarrant County Clerk in Official Public Records many Nicholson MARY LOUISE NICHOLSON COUNTY CLERK TRI-COUNTY ELECTRIC COOPERATIVE, INC. ELECTRIC LINE EASEMENT AND RIGHT-OF-WAY STATE OF TEXAS COUNTY OF Tarrant SSID No. 69825 DATE- 5/12/2022 Work Order No. 966377 GRANTOR:
+
+ Kroger Texas L.P. GRANTOR'S MAILING ADDRESS- 1014 Vine Street, Attn:
+
+ Real Estate (Logistics) (including county) Cincinnati, OH 45202 Hamilton County, Ohio GRANTEE- TRI-COUNTY ELECTRIC COOPERATIVE, INC. GRANTEE'S MAILING ADDRESS- 200 Bailey Ranch Road Aledo, Texas 76008 CONSIDERATION- The provision of electrical service and/or other benefits inuring to GRANTOR and/or Ten and No/100's dollars ($10.00) and other good and valuable consideration, the receipt and sufficiency of some consideration deemed valuable to GRANTOR being hereby expressly acknowledged and accepted by GRANTOR. EASEMENT PROPERTY (check either Defined Easement or Blanket Easement):
+
+ Defined Easement. The EASEMENT PROPERTY is a tract of land consisting of 0.080 acres, more or less, more particularly described in the attached 
+EXHIBIT A, field note description and plat, incorporated herein for all purposes. Blanket Easement. The EASEMENT PROPERTY is a tract of land described as follows (check one):
+
+ Platted Property. Lot(s) , in Block , Addition, an addition in the city of , (cross out "City of" if property is not within city limits), County, Texas, according to the map or plat thereof recorded in the Plat Records of such county. Unplatted Property. acres of land, more or less, out of the Survey, Abstract No. in County, Texas, as more fully described in an instrument recorded in Volume Page of the Records of County, Texas. For blanket easements, upon location by GRANTEE of its transmission/distribution lines, poles and/or other facilities on said property, the EASEMENT PROPERTY shall be limited to that portion of the property within feet in all directions of GRANTEE'S lines, poles, guys, anchors, or other facilities on the tract of land described above. Page 1 
+###FORM(1)_END###
+###BEARING(5)_START###
+D222166682 Page 5 of 5 ELECTRIC EASEMENT 
+EXHIBIT STATE OF TEXAS § COUNTY OF TARRANT § BEING a tract of land situated in the J. EDMONDS SURVEY, ABSTRACT NO. 457, City of Fort Worth, Tarrant County, Texas, and being a portion of Block 1, Distribution Center, an addition to the City of Fort Worth, Tarrant County, Texas, according to the plat thereof recorded in Volume 388-152, Page 43, Plat Records, Tarrant County, Texas and a portion of the same tract of land as described in deed to Kroger Texas, L.P., recorded in Volume 16525, Page 92, Deed Records, Tarrant County, Texas, and being more particularly described as follows:
+
+ 
+COMMENCING at the Southeast corner of said Block 1, Distribution Center, said point being the intersection of the Westerly right-of-way line of Texas & Pacific and M.K. & T. Railroad Company (100' right-of-way) and the North right-of-way line of Kroger Drive (variable width right-of-way);
+ 
+THENCE North 90 deg 00 min 00 sec West, departing said Westerly right-of-way line and along said North right-of-way line, at a distance of 294.93 feet passing a 1/2-inch iron rod found, in all a total distance of 880.29 feet to the POINT OF 
+BEGINNING;
+ 
+THENCE North 90 deg 00 min 00 sec West, continuing along said North right-of-way line, a distance of 15.00 feet to a point for corner, said point being South 90 deg 00 min 00 sec East, a distance of 442.34 feet from the Southeast corner of a tract of land as described in deed to Springtown Properties LLC, recorded in County Clerk's File No. D219146706, Deed Records, Tarrant County, Texas;
+ 
+THENCE departing the North right-of-way line of said Kroger Drive and over and across said Block 1, Distribution Center, the following:
+
+ North 00 deg 46 min 31 sec East, a distance of 203,17 feet to a point for corner;
+ North 90 deg 00 min 00 sec West, a distance of 7.78 feet to a point for corner;
+ North 00 deg 00 min 00 sec East, a distance of 20.00 feet to a point for corner;
+ North 90 deg 00 min 00 sec East, a distance of 23.05 feet to a point for corner;
+ South 00 deg 46 min 31 sec West, a distance of 223.17 feet to the POB CONTAINING within these metes and bounds 0.080 acres or 3,506 square feet of land, more or less. Bearings shown hereon are based upon an on-the-ground Survey performed in the field on the 9th day of March, 2022, utilizing the bearings as found on the plat of Block 1 of DISTRIBUTION CENTER, an addition to the City of Fort Worth as recorded in Volume 388-152, Page 43 of the Plat Records of Tarrant County, Texas. Winkelmann ELECTRIC EASEMENT 
+EXHIBIT Associates, Inc. 0.080 ACRES SHEET CONSULTING CIVIL ENGINEERS SURVEYORS 6750 HILLCREST PLAZA DRIVE.SUITE 215 (3,506 SQ. FT.) (972) 480-7090 OALLAS.TEXAS 75230 (072)496-7099 FAX 2 Texas Engineers Registration No 89 Texas Surveyors No 10086600 Expires 12-31-22 COPYRIGHT 2022 Winkelmann & Associates Inc. KPS LLC OF Scale N/A Date 03.15.22 1014 VINE STREET 2 Dwg. File :
+
+ 31502.00-ELECT-EXH CINCINNATI, OHIO 45202-1100 Project No. 31502.0D G:
+
+131510210D\survey\boundary131502.00-ELECT-EXH.dv 
+###BEARING(5)_END###
